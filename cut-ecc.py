@@ -10,5 +10,5 @@ while True:
     if not data:
         break
     fo.write(data)
-    fi.read(0x40)
+    fi.read(0x80)
 
